@@ -90,13 +90,20 @@ Sou estudante do 3.º ano de Engenharia Informática na **Universidade do Minho*
 
 </div>
 
-## 📊 Performance no GitHub
+## 🏆 As Minhas Conquistas
+
+<div align="center"> 
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=PaoComPlanta&theme=radical&no-frame=true&no-bg=true&margin-w=4" />
+  </a>
+</div>
+
+<br>
+
+## 📊 Linguagens e Foco
 
 <div align="center">
-  <br>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=PaoComPlanta&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117"/>
-  
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PaoComPlanta&layout=compact&theme=tokyonight&langs_count=6&hide_border=true&bg_color=0d1117"/>
+  <img src="https://streak-stats.demolab.com?user=PaoComPlanta&theme=radical&hide_border=true&date_format=j%20M%5B%20Y%5D" alt="GitHub Streak" />
 </div>
 
 ---
