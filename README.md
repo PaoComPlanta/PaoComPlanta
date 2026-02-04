@@ -3,7 +3,7 @@
 # 👋 Olá, sou o Simão Mendes!
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2196F3&center=true&vCenter=true&width=435&lines=Software+Engineering+Student;Distributed+Systems+%26+AI;Looking+for+Summer+Internship+2026" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2196F3&center=true&vCenter=true&width=435&lines=Software+Engineering+Student;Computer+Networks+%26+AI;Looking+for+Summer+Internship+2026" alt="Typing SVG" />
 </a>
 
 <br/>
@@ -89,24 +89,28 @@ Sou estudante do 3.º ano de Engenharia Informática na **Universidade do Minho*
 | ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) | ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black) | ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) | ![LaTeX](https://img.shields.io/badge/latex-%2347545E.svg?style=for-the-badge&logo=latex&logoColor=white) |
 
 </div>
+## 🛠️ Tech Stack (O meu Arsenal)
 
-## 🏆 As Minhas Conquistas
+<div align="center">
 
-<div align="center"> 
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=PaoComPlanta&theme=radical&no-frame=true&no-bg=true&margin-w=4" />
-  </a>
+| **Linguagens** | **Infraestrutura & Tools** | **Dados & IA** |
+| :---: | :---: | :---: |
+| ![Go](https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white) | ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white) | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) |
+| ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white) | ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white) | ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white) |
+| ![C](https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white) | ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black) | ![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white) |
+| ![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white) | ![LaTeX](https://img.shields.io/badge/LaTeX-47545E?style=flat-square&logo=latex&logoColor=white) | ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white) |
+
 </div>
 
 <br>
 
-## 📊 Linguagens e Foco
+## 📚 Arquivo Académico
 
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=PaoComPlanta&theme=radical&hide_border=true&date_format=j%20M%5B%20Y%5D" alt="GitHub Streak" />
-</div>
+Tenho organizado todo o meu percurso na UMinho num repositório central. Lá encontras resoluções de fichas, mini-projetos e exercícios dos anos anteriores.
+
+👉 **[Aceder ao Arquivo Universitário (UMinho-LEI)](https://github.com/PaoComPlanta/UMinho-LEI-Archives)**
 
 ---
 <div align="center">
-  <i>"Code is like humor. When you have to explain it, it’s bad."</i>
+  <i>Simão Mendes © 2025</i>
 </div>
