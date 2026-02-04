@@ -53,7 +53,7 @@ Sou estudante do 3.º ano de Engenharia Informática na **Universidade do Minho*
     <td width="50%">
       <h3 align="center">🛰️ Deep Space System</h3>
       <p align="center">
-        <i>Distributed Systems • Go • TCP/UDP</i>
+        <i>Computer Communications • Go • TCP/UDP</i>
       </p>
       <p>Sistema distribuído tolerante a falhas que simula comunicações espaciais. Implementa protocolos costumizados de camada de aplicação e concorrência avançada.</p>
       <div align="center">
