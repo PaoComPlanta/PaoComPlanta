@@ -11,7 +11,7 @@
   <a href="https://linkedin.com/in/simao-mendes-ei">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" />
   </a>
-  <a href="mailto:teu_email@alunos.uminho.pt">
+  <a href="mailto:simao18mendes@gmail.com">
     <img src="https://img.shields.io/badge/Email-Contact_Me-red?style=for-the-badge&logo=gmail" />
   </a>
 </p>
