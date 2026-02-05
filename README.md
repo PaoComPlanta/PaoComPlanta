@@ -90,15 +90,6 @@ I am a 3rd-year Software Engineering student at the **University of Minho**, foc
 </table>
 </div>
 
-## 📊 GitHub Stats
-
-<div align="center">
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=PaoComPlanta&show_icons=true&theme=dracula&hide_border=true&bg_color=0D1117" />
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PaoComPlanta&layout=compact&theme=dracula&hide_border=true&bg_color=0D1117" />
-  </a>
-</div>
-
 <br />
 
 ## 📚 Academic Archives
